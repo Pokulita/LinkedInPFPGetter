@@ -1,0 +1,28 @@
+2025-02-19 01:56:55,927 - ERROR - Error getting LinkedIn profile image: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6DD396EE5+28773]
+	(No symbol) [0x00007FF6DD3025D0]
+	(No symbol) [0x00007FF6DD198FAA]
+	(No symbol) [0x00007FF6DD1EF286]
+	(No symbol) [0x00007FF6DD1EF4BC]
+	(No symbol) [0x00007FF6DD242A27]
+	(No symbol) [0x00007FF6DD21728F]
+	(No symbol) [0x00007FF6DD23F6F3]
+	(No symbol) [0x00007FF6DD217023]
+	(No symbol) [0x00007FF6DD1DFF5E]
+	(No symbol) [0x00007FF6DD1E11E3]
+	GetHandleVerifier [0x00007FF6DD6E422D+3490733]
+	GetHandleVerifier [0x00007FF6DD6FBA13+3586963]
+	GetHandleVerifier [0x00007FF6DD6F144D+3544525]
+	GetHandleVerifier [0x00007FF6DD45C9AA+838442]
+	(No symbol) [0x00007FF6DD30D01F]
+	(No symbol) [0x00007FF6DD3095E4]
+	(No symbol) [0x00007FF6DD309786]
+	(No symbol) [0x00007FF6DD2F8CB9]
+	BaseThreadInitThunk [0x00007FFBF9DC259D+29]
+	RtlUserThreadStart [0x00007FFBFBE2AF38+40]
+
+2025-02-19 02:03:56,169 - ERROR - Error getting LinkedIn profile image: Invalid URL 'None': No scheme supplied. Perhaps you meant https://None?
+2025-02-19 02:09:41,807 - ERROR - Error getting LinkedIn profile image: Invalid URL 'None': No scheme supplied. Perhaps you meant https://None?
+2025-02-19 02:16:02,299 - INFO - LinkedIn profile image downloaded successfully.
+2025-02-19 02:38:06,583 - INFO - LinkedIn profile image downloaded successfully.
