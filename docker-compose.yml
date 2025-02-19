@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+  getter-script:
+    build: .
+    environment:
+      LINKEDIN_EMAIL: ${LINKEDIN_EMAIL}
+      LINKEDIN_PASSWORD: ${LINKEDIN_PASSWORD}
+    volumes:
+      - .:/app
+    stdin_open: true
+    tty: true
