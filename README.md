@@ -25,7 +25,7 @@ git clone https://github.com/yourusername/your-repo.git
 cd your-repo
 ```
 
-### 2. Run Docer-Compose build command
+### 2. Run Docker-Compose build command
 
 - For Windows
 ```bash
